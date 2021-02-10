@@ -8,6 +8,10 @@ public class RoughTest1 {
 
 	public static void main(String[] args) throws IOException {
 
+		
+		
+		// Using EGIT Plugin
+		
 		System.out.println(System.getProperty("user.dir"));
 
 		Properties config = new Properties();
